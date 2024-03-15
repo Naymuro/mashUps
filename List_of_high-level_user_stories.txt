@@ -1,0 +1,24 @@
+﻿List of high-level user stories
+1. (Match songs with similar metadata) As a playlist creator, I want to build a diverse playlist similar to a certain song.
+2. (Crafting a party playlist) As a DJ, I want to create a playlist of songs with similar bpm that will cater to the people at the party.
+3. (Return songs based on occasion) As an event planner, I want to find background music that suits the atmosphere of my event.
+4. (Find songs based on tempo) As a fitness class instructor, I want to find songs that have specific beats for different parts of my workout routine.
+5. (Find Existing Mixes) As a casual online video watcher, I want to see if I can find mashups of my favorite songs by searching two similar songs together.
+6. (Manual Key and BPM Inputs) As a youtuber I want to be able to make music mixes between popular songs and my original songs.
+7. (Match and Return Key of Similar Songs) As a singer, I want to find songs similar to songs I have sung before to practice within the same key.
+8. (Match and Return key and BPM of similar songs)As a music enthusiast, I want to see other songs that sound similar to the ones that I like so I can learn about more songs.
+9. (Find songs with the same Key) As a songwriter, I want to find other songs that have the same key as the one I am creating, for inspiration. 
+10.   (Find tracks with high BPM) As a gym goer, I want to find upbeat tracks with high BPM to create an energizing workout playlist
+11. (Find Songs With Similar Keys) As a podcast producer, I want to find ambient music with similar keys that complement the mood of the podcast.
+12.  (Find songs with Similar Keys) As a radio curator, I want to find music that is very similar in key so that they can go on a radio channel.
+13.  (Create playlist and send to Spotify) As a spotify user, I want to create a spotify playlist automatically with a similar vibe
+14.  (Find songs from a Geographic Area) As a government employee, I want to be able to find songs that are from or talk about a geographic area (country, state) as I want to create patriotic songs for that geographic area
+15.  (Add songs to database) As a moderator, I want to be able to add indie songs to the database so others can look them up later and see if any songs have similar metadata to them
+16.  (Cover art finder) As a cover art fan, I want to find cover art of songs and see if they fit my intended bpm and key
+17.  (Find songs with similar BPM and Key) As a limo driver, I want to provide my riders with a great experience, per their requested music “vibe,” so that I can get more tips. 
+18.  (Find songs with similar BPM and Key) As a school teacher, I want to provide my students with calm, soothing music (of a similar genre) so that they can focus.
+19. (Find songs with similar BPM and Key)  As a Tik-Tok star, I want to create similar videos, with similar songs so that I can create a consistent content base. 
+20.  (Manual Key and BPM Inputs) As a music student at Virginia Tech, I want to have access to similar music “topics” with a specific key so that I can learn from these artists and build my own music. 
+21. (Find songs with similar BPM and Key) As a music producer, I want to analyze which songs have resonated well with listeners and build better music. 
+22. (Find songs with similar BPM and Key)As a Spotify developer, I want to improve our Discover Weekly to curate better song suggestions for our users. 
+23. (Tagging System of Resulting Recs) As a typical user I want to be able to filter the resulting songs by mood, BPM, or key.
